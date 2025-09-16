@@ -193,7 +193,7 @@
             ></a> -->
 
             <a
-              href="services.html"
+              href="services.php"
               class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow border-1 left-icon me-10px sm-mb-15px sm-mt-15px">
               <span>
                 <span class="btn-double-text" data-text="Explore Our Services"

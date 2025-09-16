@@ -6,7 +6,7 @@
         data-header-hover="dark">
         <div class="container-fluid">
           <div class="col-auto col-xxl-3 col-lg-2 me-lg-0 me-auto">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <img
                 src="img/logos/PropAdvisor_Logo.png"
                 data-at2x="img/logos/PropAdvisor_Logo.png"
@@ -40,13 +40,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav alt-font">
                 <li class="nav-item">
-                  <a href="index.html" class="nav-link">Home</a>
+                  <a href="index.php" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a href="about.html" class="nav-link">About</a>
+                  <a href="about.php" class="nav-link">About</a>
                 </li>
                 <li class="nav-item dropdown dropdown-with-icon-style02">
-                  <a href="services.html" class="nav-link">Services</a>
+                  <a href="services.php" class="nav-link">Services</a>
                   <!-- <i
                     class="fa-solid fa-angle-down dropdown-toggle"
                     id="navbarDropdownMenuLink"
@@ -90,16 +90,16 @@
                   </ul> -->
                 </li>
                 <li class="nav-item">
-                  <a href="developers.html" class="nav-link">Developers</a>
+                  <a href="developers.php" class="nav-link">Developers</a>
                 </li>
                 <li class="nav-item">
-                  <a href="buyers.html" class="nav-link">Buyers</a>
+                  <a href="buyers.php" class="nav-link">Buyers</a>
                 </li>
                 <li class="nav-item">
-                  <a href="projects.html" class="nav-link">Projects</a>
+                  <a href="projects.php" class="nav-link">Projects</a>
                 </li>
                 <li class="nav-item">
-                  <a href="contact.html" class="nav-link">Contact</a>
+                  <a href="contact.php" class="nav-link">Contact</a>
                 </li>
               </ul>
             </div>

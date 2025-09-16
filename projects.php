@@ -55,12 +55,12 @@
                     Delta <span class="fw-700">Prestige</span>
                   </div>
                   <a
-                    href="contact.html"
+                    href="contact.php"
                     class="btn btn-white btn-large border-1 btn-round-edge btn-box-shadow me-15px xs-mt-10px xs-mb-10px"
                     >Schedule visit</a
                   >
                   <a
-                    href="property-details.html"
+                    href="property-details.php"
                     class="btn btn-transparent-white-light border-1 btn-large btn-round-edge fw-500 xs-mt-10px xs-mb-10px"
                     >View details</a
                   >
@@ -131,12 +131,12 @@
                     Invicta <span class="fw-700">Ulwe</span>
                   </div>
                   <a
-                    href="contact.html"
+                    href="contact.php"
                     class="btn btn-white btn-large border-1 btn-round-edge btn-box-shadow me-15px xs-mt-10px xs-mb-10px"
                     >Schedule visit</a
                   >
                   <a
-                    href="property-details.html"
+                    href="property-details.php"
                     class="btn btn-transparent-white-light border-1 btn-large btn-round-edge fw-500 xs-mt-10px xs-mb-10px"
                     >View details</a
                   >
@@ -207,12 +207,12 @@
                     Invicta <span class="fw-700">Ecalt</span>
                   </div>
                   <a
-                    href="contact.html"
+                    href="contact.php"
                     class="btn btn-white btn-large border-1 btn-round-edge btn-box-shadow me-15px xs-mt-10px xs-mb-10px"
                     >Schedule visit</a
                   >
                   <a
-                    href="property-details.html"
+                    href="property-details.php"
                     class="btn btn-transparent-white-light border-1 btn-large btn-round-edge fw-500 xs-mt-10px xs-mb-10px"
                     >View details</a
                   >
@@ -385,7 +385,7 @@
               </a> -->
 
               <a
-                href="about.html"
+                href="about.php"
                 class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow border-1 left-icon me-10px sm-mb-15px sm-mt-15px">
                 <span>
                   <span><i class="feather icon-feather-arrow-right"></i></span>
@@ -395,7 +395,7 @@
                 </span>
               </a>
               <a
-                href="services.html"
+                href="services.php"
                 class="btn btn-large btn-transparent-light-gray border-1 btn-switch-text left-icon sm-mb-15px sm-mt-15px">
                 <span>
                   <span><i class="feather icon-feather-briefcase"></i></span>
@@ -578,7 +578,7 @@
             data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
             <div class="d-flex justify-content-center justify-content-md-end">
               <a
-                href="property-list.html"
+                href="property-list.php"
                 class="fw-600 alt-font text-dark-gray text-dark-gray-hover d-flex align-items-center"
                 >View all property<span
                   class="d-flex align-items-center justify-content-center bg-dark-gray h-40px w-40px text-center rounded-circle fs-16 text-white ms-10px"

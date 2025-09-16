@@ -67,7 +67,7 @@
                     </div>
                     <div class="d-inline-block mt-45px sm-mt-30px">
                       <a
-                        href="developers.html"
+                        href="developers.php"
                         class="btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px align-middle left-icon">
                         <span>
                           <span
@@ -136,7 +136,7 @@
                     </div>
                     <div class="d-inline-block mt-45px sm-mt-30px">
                       <a
-                        href="buyers.html"
+                        href="buyers.php"
                         class="btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px align-middle left-icon">
                         <span>
                           <span
@@ -205,7 +205,7 @@
                     </div>
                     <div class="d-inline-block mt-50px sm-mt-30px">
                       <a
-                        href="developers.html"
+                        href="developers.php"
                         class="btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px align-middle left-icon">
                         <span>
                           <span
@@ -325,7 +325,7 @@
               investors to the right property decisions.
             </p>
             <a
-              href="about.html"
+              href="about.php"
               class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow border-1 left-icon me-10px sm-mb-15px sm-mt-15px">
               <span>
                 <span><i class="feather icon-feather-arrow-right"></i></span>
@@ -335,7 +335,7 @@
               </span>
             </a>
             <a
-              href="services.html"
+              href="services.php"
               class="btn btn-large btn-transparent-light-gray border-1 btn-switch-text left-icon sm-mb-15px sm-mt-15px">
               <span>
                 <span><i class="feather icon-feather-briefcase"></i></span>
@@ -572,7 +572,7 @@
             > -->
 
             <a
-              href="developers.html"
+              href="developers.php"
               class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow border-1 left-icon me-10px sm-mb-15px sm-mt-15px">
               <span>
                 <span><i class="feather icon-feather-arrow-right"></i></span>
@@ -582,7 +582,7 @@
               </span>
             </a>
             <a
-              href="buyers.html"
+              href="buyers.php"
               class="btn btn-large btn-transparent-light-gray border-1 btn-switch-text left-icon sm-mb-15px sm-mt-15px">
               <span>
                 <span><i class="feather icon-feather-briefcase"></i></span>
@@ -778,7 +778,7 @@
                     infrastructure.
                   </p>
                   <a
-                    href="projects.html"
+                    href="projects.php"
                     class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow fw-400">
                     <span>
                       <span class="btn-double-text" data-text="Explore project"

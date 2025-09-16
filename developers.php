@@ -63,7 +63,7 @@
               </div>
             </h1>
 
-            <a href="contact.html">
+            <a href="contact.php">
               <button
                 class="btn btn-extra-large btn-round-edge btn-base-color btn-box-shadow w-100 submit ls-0px">
                 <span>
@@ -582,7 +582,7 @@
                             competing for the same audience.
                           </p>
                           <a
-                            href="case-study-1.html"
+                            href="case-study-1.php"
                             class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                             <span>
                               <span class="btn-text">Explore project</span>
@@ -622,7 +622,7 @@
                             pre-launch phase.
                           </p>
                           <a
-                            href="case-study-2.html"
+                            href="case-study-2.php"
                             class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                             <span>
                               <span class="btn-text">Explore project</span>
@@ -663,7 +663,7 @@
                             International Airport.
                           </p>
                           <a
-                            href="case-study-3.html"
+                            href="case-study-3.php"
                             class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                             <span>
                               <span class="btn-text">Explore project</span>

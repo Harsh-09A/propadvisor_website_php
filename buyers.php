@@ -53,7 +53,7 @@
               >
             </div>
             <div class="icon-with-text-style-08">
-              <a href="contact.html">
+              <a href="contact.php">
                 <div class="feature-box feature-box-left-icon-middle">
                   <div
                     class="feature-box-icon feature-box-icon-rounded w-65px h-65px rounded-circle bg-prop-theme me-15px rounded-box">
@@ -62,7 +62,7 @@
                   </div>
                   <div class="feature-box-content">
                     <a
-                      href="contact.html"
+                      href="contact.php"
                       class="d-inline-block fs-19 text-white text-shadow-double-large"
                       >Schedule A Consultation</a
                     >
@@ -144,7 +144,7 @@
             ></a> -->
 
             <a
-              href="services.html"
+              href="services.php"
               class="btn btn-large btn-dark-gray btn-switch-text btn-box-shadow border-1 left-icon me-10px sm-mb-15px sm-mt-15px">
               <span>
                 <span class="btn-double-text" data-text="Explore Our Services"
@@ -363,7 +363,7 @@
                       competitive.
                     </p>
                     <a
-                      href="services.html"
+                      href="services.php"
                       class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600"
                       >Learn more<span class="bg-base-color text-white"
                         ><i
@@ -414,7 +414,7 @@
                       competitive.
                     </p>
                     <a
-                      href="services.html"
+                      href="services.php"
                       class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600"
                       >Learn more<span class="bg-base-color text-white"
                         ><i
@@ -465,7 +465,7 @@
                       competitive.
                     </p>
                     <a
-                      href="services.html"
+                      href="services.php"
                       class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600"
                       >Learn more<span class="bg-base-color text-white"
                         ><i
@@ -516,7 +516,7 @@
                       competitive.
                     </p>
                     <a
-                      href="services.html"
+                      href="services.php"
                       class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600"
                       >Learn more<span class="bg-base-color text-white"
                         ><i
